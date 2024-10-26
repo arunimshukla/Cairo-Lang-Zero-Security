@@ -287,3 +287,11 @@ When auditing Cairo contracts, consider these testing approaches:
 Cairo, as a language designed for zk-STARKs and efficient Layer 2 scaling, introduces novel concepts and potential vulnerabilities that differ from traditional smart contract languages like Solidity. Developers and auditors must be acutely aware of these unique characteristics to build secure applications on StarkNet.
 
 As the Cairo ecosystem evolves, new vulnerabilities and best practices will undoubtedly emerge. Staying updated with the latest developments, participating in the community, and rigorously testing smart contracts are crucial steps in ensuring the security of Cairo-based applications.
+
+# Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+# ⚠️ Disclaimer
+
+This repository is for educational purposes only. Always conduct thorough testing and auditing before deploying contracts to production.
